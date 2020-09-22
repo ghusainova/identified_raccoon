@@ -70,7 +70,7 @@ a:focus {
 .theme-button {
   position: relative;
   margin-top: 20px;
-  padding-top: 7px;
+  padding-top: 16px;
   padding-right: 16px;
   padding-bottom: 7px;
   padding-left: 16px;
@@ -86,7 +86,7 @@ a:focus {
   opacity: 0.8;
 }
 
-.theme-button:focus,
+
 .theme-button:hover {
   color: #ffffff;
   background-color: #6653d9;
